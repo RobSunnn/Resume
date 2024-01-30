@@ -20,8 +20,3 @@
 *    [MySQL](https://softuni.bg/certificates/details/172158/99896a3c)
 *    [Spring Data](https://softuni.bg/certificates/details/180536/5816b185)
 *    [Spring Framework Fundamentals](https://softuni.bg/certificates/details/191514/eeadc9b7)
-  
-<footer>
-
-  Created with :heart: by Roberto Spasov
-</footer>
